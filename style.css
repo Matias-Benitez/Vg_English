@@ -77,6 +77,12 @@ body{
     .home-col-2 img{
         display: none;
     }
+    .btn-vg{
+        padding: 0.5rem 3rem;
+    }
+    .btn-vg:hover{
+        padding: 0.5rem 3rem;
+    }
 }
 @media only screen and (min-width: 651px) and (max-width: 1024px){
     .home-col-1 div img{
@@ -181,6 +187,12 @@ body{
     }
     .test-col-2{
         margin-top: 33%;
+    }
+    .test-col-2 a{
+        padding: 0.7rem 6rem
+    }
+    .test-col-2 a:hover{
+        padding: 0.7rem 6rem
     }
 }
 @media only screen and (min-width: 651px) and (max-width: 1024px){
@@ -390,9 +402,9 @@ footer div span p{
         margin: 2rem 0;
     }
     .links a{
-        width: 2.5rem;
-        line-height: 2.5rem;
-        height: 2.5rem;
+        width: 2.4rem;
+        line-height: 2.4rem;
+        height: 2.4rem;
     }
     .incribite-col-3{
         text-align: center;

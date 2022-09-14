@@ -79,6 +79,7 @@ body{
     }
     .btn-vg{
         padding: 0.5rem 3rem;
+        text-align: center;
     }
     .btn-vg:hover{
         padding: 0.5rem 3rem;
